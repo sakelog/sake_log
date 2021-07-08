@@ -55,7 +55,7 @@
     "@types/loadable__component": "^5.13.3",
     "@types/lodash": "^4.14.168",
     "@types/node": "^15.0.1",
-    "@types/react": "^17.0.4",
+    "@types/react": "^17.0.14",
     "@types/react-copy-to-clipboard": "^5.0.0",
     "@types/react-dom": "^17.0.3",
     "@types/react-instantsearch-dom": "^6.10.0",
